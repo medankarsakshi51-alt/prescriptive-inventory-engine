@@ -68,17 +68,6 @@ The engine aggregated total 3-month store earnings against the 8-Quadrant Triage
 
 * *Note: The chart above maps how Grid 2 (Evergreen Winners) and Grid 4 (High-Volume Stable Pillars) hold the vast majority of cash flow, whereas Grids 5-8 require immediate liquidation.*
 
-### 2. Standalone Core Revenue Drivers (Top 5 Preview)
-The master engine isolated the bedrock revenue generators of the business, allowing supply chain teams to maintain absolute stock availability on high-yield SKUs:
-
-| Rank | Product Name | Average Sale Rate | True Profit Margin | Portfolio Classification | Suggested Min Stock | Suggested Max Stock | Combined 3-Mo Gross (₹) |
-| :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: |
-| 1 | BM SHENGDANA-1KG (1000 GM) | ₹130.00 | 99.75% | Grid 2: High Vol \| High Profit | 279,000 | 353,700 | 130,780,000.00 |
-| 2 | BM BESAN 1KG(1000 GM) | ₹111.53 | -130.42% | Grid 3: High Vol \| Low Profit | 53,000 | 208,000 | 49,334,994.00 |
-| 3 | BM MUG DAL 1KG(1000 GM) | ₹120.00 | 99.83% | Grid 1: High Vol \| High Profit | 48,000 | 138,000 | 31,080,000.00 |
-| 4 | BM HIRVA MOONG 1KG(1000 GM) | ₹142.38 | 99.85% | Grid 1: High Vol \| High Profit | 9,000 | 94,000 | 28,766,880.00 |
-| 5 | BM KOLAM -RS.68/- 1KG(1000 GMS) | ₹69.49 | 99.91% | Grid 2: High Vol \| High Profit | 110,000 | 139,500 | 26,701,990.60 |
-
 ---
 
 ## 🚀 Repository Blueprint & Getting Started
