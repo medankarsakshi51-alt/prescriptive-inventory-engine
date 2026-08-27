@@ -57,18 +57,6 @@ Building this engine wasn't a straightforward copy-paste job. The raw data comin
 
 ---
 
-## 📈 Dashboard Portfolio Insights
-
-### 1. Revenue Concentration Map
-The engine aggregated total 3-month store earnings against the 8-Quadrant Triage Tree to evaluate exactly where working capital is generating enterprise returns:
-
-<p align="center">
-  <img src="https://unsplash.com" width="750" alt="Executive Revenue Concentration Chart Dashboard Preview">
-</p>
-
-* *Note: The chart above maps how Grid 2 (Evergreen Winners) and Grid 4 (High-Volume Stable Pillars) hold the vast majority of cash flow, whereas Grids 5-8 require immediate liquidation.*
-
----
 
 ## 🚀 Repository Blueprint & Getting Started
 
