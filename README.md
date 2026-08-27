@@ -34,7 +34,7 @@ To break this cycle, I built a data-driven **Prescriptive Inventory Automation E
 By deploying this engine on the store's raw transactional data, we achieved major operational breakthroughs:
 
 * **Released ₹854,017.12 in Cold, Hard Cash:** We identified **11,788 units of dead stock** completely freezing the store's cash flow. This means **18.62% of all the money** the store had invested in inventory was sitting uselessly on shelves. The engine targeted these for immediate liquidation.
-* **Plugged the Revenue Leak:** We isolated a high-velocity core of **948 product lines** that single-handedly generated **99.89% (₹480,217,314.44)** of total store revenue. By putting automated safety guards around these items, we ensured the store's top money-makers never run out of stock.
+* **Plugged the Revenue Leak:** We isolated a high-velocity core of **948 product lines** that single-handedly generated **approx 75% (₹34,39,918.099)** of total store revenue. By putting automated safety guards around these items, we ensured the store's top money-makers never run out of stock.
 * **Bust a System-Wide "Ghost Margin" Illusion:** Fixed a critical system error where missing wholesale costs were being recorded as `0`. This made over half the catalog look like it had a **100% pure profit margin** (costing nothing to buy). We corrected this layout, permanently reducing accounting errors to **0%**.
 
 ---
