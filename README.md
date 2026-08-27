@@ -29,7 +29,7 @@ To break this cycle, I built a data-driven **Prescriptive Inventory Automation E
 
 ---
 
-## 📈 Real Business Impact (In Layman Terms)
+## 📈 Real Business Impact
 
 By deploying this engine on the store's raw transactional data, we achieved major operational breakthroughs:
 
